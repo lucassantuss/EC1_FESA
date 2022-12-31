@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\bin\Debug\Ex2_TreinoWriteLine.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\bin\Debug\Ex2_TreinoWriteLine.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\bin\Debug\Ex2_TreinoWriteLine.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\obj\Debug\Ex2_TreinoWriteLine.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\obj\Debug\Ex2_TreinoWriteLine.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\obj\Debug\Ex2_TreinoWriteLine.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\obj\Debug\Ex2_TreinoWriteLine.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex2_TreinoWriteLine\obj\Debug\Ex2_TreinoWriteLine.pdb

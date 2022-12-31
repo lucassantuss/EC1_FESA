@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\bin\Debug\Ex6_MediaAluno.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\bin\Debug\Ex6_MediaAluno.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\bin\Debug\Ex6_MediaAluno.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\obj\Debug\Ex6_MediaAluno.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\obj\Debug\Ex6_MediaAluno.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\obj\Debug\Ex6_MediaAluno.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\obj\Debug\Ex6_MediaAluno.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex6_MediaAluno\obj\Debug\Ex6_MediaAluno.pdb

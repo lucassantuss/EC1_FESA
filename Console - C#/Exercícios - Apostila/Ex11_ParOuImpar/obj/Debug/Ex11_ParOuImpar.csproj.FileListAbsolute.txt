@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\bin\Debug\Ex11_ParOuImpar.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\bin\Debug\Ex11_ParOuImpar.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\bin\Debug\Ex11_ParOuImpar.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\obj\Debug\Ex11_ParOuImpar.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\obj\Debug\Ex11_ParOuImpar.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\obj\Debug\Ex11_ParOuImpar.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\obj\Debug\Ex11_ParOuImpar.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex11_ParOuImpar\obj\Debug\Ex11_ParOuImpar.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\bin\Debug\Ex5_CalculoDeR.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\bin\Debug\Ex5_CalculoDeR.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\bin\Debug\Ex5_CalculoDeR.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\obj\Debug\Ex5_CalculoDeR.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\obj\Debug\Ex5_CalculoDeR.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\obj\Debug\Ex5_CalculoDeR.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\obj\Debug\Ex5_CalculoDeR.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex5_CalculoDeR\obj\Debug\Ex5_CalculoDeR.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\bin\Debug\Ex10_AnoBissexto.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\bin\Debug\Ex10_AnoBissexto.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\bin\Debug\Ex10_AnoBissexto.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\obj\Debug\Ex10_AnoBissexto.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\obj\Debug\Ex10_AnoBissexto.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\obj\Debug\Ex10_AnoBissexto.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\obj\Debug\Ex10_AnoBissexto.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex10_AnoBissexto\obj\Debug\Ex10_AnoBissexto.pdb

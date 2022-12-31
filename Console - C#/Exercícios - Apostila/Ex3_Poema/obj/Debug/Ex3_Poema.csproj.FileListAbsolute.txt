@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\bin\Debug\Ex3_Poema.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\bin\Debug\Ex3_Poema.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\bin\Debug\Ex3_Poema.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\obj\Debug\Ex3_Poema.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\obj\Debug\Ex3_Poema.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\obj\Debug\Ex3_Poema.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\obj\Debug\Ex3_Poema.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex3_Poema\obj\Debug\Ex3_Poema.pdb

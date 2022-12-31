@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\bin\Debug\Exemplo_Desvio_Condicional.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\bin\Debug\Exemplo_Desvio_Condicional.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\bin\Debug\Exemplo_Desvio_Condicional.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\obj\Debug\Exemplo_Desvio_Condicional.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\obj\Debug\Exemplo_Desvio_Condicional.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\obj\Debug\Exemplo_Desvio_Condicional.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\obj\Debug\Exemplo_Desvio_Condicional.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Desvio_Condicional\obj\Debug\Exemplo_Desvio_Condicional.pdb

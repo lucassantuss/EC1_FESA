@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\bin\Debug\Ex9_DiaDaSemana.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\bin\Debug\Ex9_DiaDaSemana.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\bin\Debug\Ex9_DiaDaSemana.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\obj\Debug\Ex9_DiaDaSemana.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\obj\Debug\Ex9_DiaDaSemana.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\obj\Debug\Ex9_DiaDaSemana.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\obj\Debug\Ex9_DiaDaSemana.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex9_DiaDaSemana\obj\Debug\Ex9_DiaDaSemana.pdb

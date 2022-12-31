@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\bin\Debug\Ex7_DivisaoCondicional.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\bin\Debug\Ex7_DivisaoCondicional.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\bin\Debug\Ex7_DivisaoCondicional.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\obj\Debug\Ex7_DivisaoCondicional.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\obj\Debug\Ex7_DivisaoCondicional.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\obj\Debug\Ex7_DivisaoCondicional.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\obj\Debug\Ex7_DivisaoCondicional.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex7_DivisaoCondicional\obj\Debug\Ex7_DivisaoCondicional.pdb

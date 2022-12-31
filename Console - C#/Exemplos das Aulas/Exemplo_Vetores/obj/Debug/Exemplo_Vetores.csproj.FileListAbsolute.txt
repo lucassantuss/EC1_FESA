@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\bin\Debug\Exemplo_Vetores.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\bin\Debug\Exemplo_Vetores.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\bin\Debug\Exemplo_Vetores.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\obj\Debug\Exemplo_Vetores.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\obj\Debug\Exemplo_Vetores.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\obj\Debug\Exemplo_Vetores.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\obj\Debug\Exemplo_Vetores.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Vetores\obj\Debug\Exemplo_Vetores.pdb

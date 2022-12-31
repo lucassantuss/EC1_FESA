@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\bin\Debug\Exemplo_For.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\bin\Debug\Exemplo_For.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\bin\Debug\Exemplo_For.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\obj\Debug\Exemplo_For.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\obj\Debug\Exemplo_For.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\obj\Debug\Exemplo_For.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\obj\Debug\Exemplo_For.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_For\obj\Debug\Exemplo_For.pdb

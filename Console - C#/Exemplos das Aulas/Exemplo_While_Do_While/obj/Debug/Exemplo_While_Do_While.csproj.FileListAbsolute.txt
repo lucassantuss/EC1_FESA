@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\bin\Debug\Exemplo_While_Do_While.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\bin\Debug\Exemplo_While_Do_While.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\bin\Debug\Exemplo_While_Do_While.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\obj\Debug\Exemplo_While_Do_While.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\obj\Debug\Exemplo_While_Do_While.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\obj\Debug\Exemplo_While_Do_While.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\obj\Debug\Exemplo_While_Do_While.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_While_Do_While\obj\Debug\Exemplo_While_Do_While.pdb

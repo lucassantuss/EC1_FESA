@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\bin\Debug\Exemplo_Matriz.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\bin\Debug\Exemplo_Matriz.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\bin\Debug\Exemplo_Matriz.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\obj\Debug\Exemplo_Matriz.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\obj\Debug\Exemplo_Matriz.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\obj\Debug\Exemplo_Matriz.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\obj\Debug\Exemplo_Matriz.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplo_Matriz\obj\Debug\Exemplo_Matriz.pdb
