@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\bin\Debug\Ex51_CincoNomes.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\bin\Debug\Ex51_CincoNomes.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\bin\Debug\Ex51_CincoNomes.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\obj\Debug\Ex51_CincoNomes.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\obj\Debug\Ex51_CincoNomes.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\obj\Debug\Ex51_CincoNomes.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\obj\Debug\Ex51_CincoNomes.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex51_CincoNomes\obj\Debug\Ex51_CincoNomes.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\bin\Debug\Ex41_Palindromo.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\bin\Debug\Ex41_Palindromo.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\bin\Debug\Ex41_Palindromo.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\obj\Debug\Ex41_Palindromo.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\obj\Debug\Ex41_Palindromo.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\obj\Debug\Ex41_Palindromo.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\obj\Debug\Ex41_Palindromo.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex41_Palindromo\obj\Debug\Ex41_Palindromo.pdb

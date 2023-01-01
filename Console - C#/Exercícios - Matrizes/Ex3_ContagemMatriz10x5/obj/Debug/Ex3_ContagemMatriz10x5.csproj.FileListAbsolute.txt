@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\bin\Debug\Ex3_ContagemMatriz10x5.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\bin\Debug\Ex3_ContagemMatriz10x5.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\bin\Debug\Ex3_ContagemMatriz10x5.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\obj\Debug\Ex3_ContagemMatriz10x5.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\obj\Debug\Ex3_ContagemMatriz10x5.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\obj\Debug\Ex3_ContagemMatriz10x5.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\obj\Debug\Ex3_ContagemMatriz10x5.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex3_ContagemMatriz10x5\obj\Debug\Ex3_ContagemMatriz10x5.pdb

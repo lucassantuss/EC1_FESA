@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\bin\Debug\Ex25_Soma100Numeros.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\bin\Debug\Ex25_Soma100Numeros.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\bin\Debug\Ex25_Soma100Numeros.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\obj\Debug\Ex25_Soma100Numeros.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\obj\Debug\Ex25_Soma100Numeros.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\obj\Debug\Ex25_Soma100Numeros.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\obj\Debug\Ex25_Soma100Numeros.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex25_Soma100Numeros\obj\Debug\Ex25_Soma100Numeros.pdb

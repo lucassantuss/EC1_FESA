@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\bin\Debug\Ex55_Menu30Nomes.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\bin\Debug\Ex55_Menu30Nomes.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\bin\Debug\Ex55_Menu30Nomes.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\obj\Debug\Ex55_Menu30Nomes.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\obj\Debug\Ex55_Menu30Nomes.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\obj\Debug\Ex55_Menu30Nomes.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\obj\Debug\Ex55_Menu30Nomes.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex55_Menu30Nomes\obj\Debug\Ex55_Menu30Nomes.pdb

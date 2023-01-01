@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex25_Soma100Numeros", "Ex25_Soma100Numeros.csproj", "{7F8390CF-6D6B-4C36-936E-5F15F59AFD73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F8390CF-6D6B-4C36-936E-5F15F59AFD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8390CF-6D6B-4C36-936E-5F15F59AFD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8390CF-6D6B-4C36-936E-5F15F59AFD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8390CF-6D6B-4C36-936E-5F15F59AFD73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0111C81-E237-49EC-98B8-057959B9EFE0}
+	EndGlobalSection
+EndGlobal

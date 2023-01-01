@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\bin\Debug\Ex5_NotasAlunos.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\bin\Debug\Ex5_NotasAlunos.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\bin\Debug\Ex5_NotasAlunos.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\obj\Debug\Ex5_NotasAlunos.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\obj\Debug\Ex5_NotasAlunos.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\obj\Debug\Ex5_NotasAlunos.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\obj\Debug\Ex5_NotasAlunos.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex5_NotasAlunos\obj\Debug\Ex5_NotasAlunos.pdb

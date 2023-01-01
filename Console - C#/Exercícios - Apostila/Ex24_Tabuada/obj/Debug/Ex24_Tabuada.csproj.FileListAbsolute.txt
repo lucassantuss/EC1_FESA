@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\bin\Debug\Ex24_Tabuada.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\bin\Debug\Ex24_Tabuada.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\bin\Debug\Ex24_Tabuada.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\obj\Debug\Ex24_Tabuada.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\obj\Debug\Ex24_Tabuada.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\obj\Debug\Ex24_Tabuada.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\obj\Debug\Ex24_Tabuada.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex24_Tabuada\obj\Debug\Ex24_Tabuada.pdb

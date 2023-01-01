@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\bin\Debug\Ex31_ContaLetras.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\bin\Debug\Ex31_ContaLetras.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\bin\Debug\Ex31_ContaLetras.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\obj\Debug\Ex31_ContaLetras.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\obj\Debug\Ex31_ContaLetras.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\obj\Debug\Ex31_ContaLetras.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\obj\Debug\Ex31_ContaLetras.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex31_ContaLetras\obj\Debug\Ex31_ContaLetras.pdb

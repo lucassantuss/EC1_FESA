@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\bin\Debug\Ex29_FraseVertical.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\bin\Debug\Ex29_FraseVertical.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\bin\Debug\Ex29_FraseVertical.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\obj\Debug\Ex29_FraseVertical.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\obj\Debug\Ex29_FraseVertical.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\obj\Debug\Ex29_FraseVertical.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\obj\Debug\Ex29_FraseVertical.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex29_FraseVertical\obj\Debug\Ex29_FraseVertical.pdb

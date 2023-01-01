@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\bin\Debug\Ex1_QtdParesPorLinha.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\bin\Debug\Ex1_QtdParesPorLinha.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\bin\Debug\Ex1_QtdParesPorLinha.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\obj\Debug\Ex1_QtdParesPorLinha.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\obj\Debug\Ex1_QtdParesPorLinha.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\obj\Debug\Ex1_QtdParesPorLinha.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\obj\Debug\Ex1_QtdParesPorLinha.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex1_QtdParesPorLinha\obj\Debug\Ex1_QtdParesPorLinha.pdb

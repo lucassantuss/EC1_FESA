@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\bin\Debug\Ex56_MenuNomeSalario.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\bin\Debug\Ex56_MenuNomeSalario.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\bin\Debug\Ex56_MenuNomeSalario.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\obj\Debug\Ex56_MenuNomeSalario.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\obj\Debug\Ex56_MenuNomeSalario.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\obj\Debug\Ex56_MenuNomeSalario.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\obj\Debug\Ex56_MenuNomeSalario.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex56_MenuNomeSalario\obj\Debug\Ex56_MenuNomeSalario.pdb

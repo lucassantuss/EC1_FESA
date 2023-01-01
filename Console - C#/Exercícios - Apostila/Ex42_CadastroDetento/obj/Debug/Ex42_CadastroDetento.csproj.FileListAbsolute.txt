@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\bin\Debug\Ex42_CadastroDetento.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\bin\Debug\Ex42_CadastroDetento.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\bin\Debug\Ex42_CadastroDetento.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\obj\Debug\Ex42_CadastroDetento.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\obj\Debug\Ex42_CadastroDetento.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\obj\Debug\Ex42_CadastroDetento.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\obj\Debug\Ex42_CadastroDetento.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex42_CadastroDetento\obj\Debug\Ex42_CadastroDetento.pdb

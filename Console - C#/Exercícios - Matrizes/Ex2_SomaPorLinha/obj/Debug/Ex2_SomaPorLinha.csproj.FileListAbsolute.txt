@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\bin\Debug\Ex2_SomaPorLinha.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\bin\Debug\Ex2_SomaPorLinha.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\bin\Debug\Ex2_SomaPorLinha.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\obj\Debug\Ex2_SomaPorLinha.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\obj\Debug\Ex2_SomaPorLinha.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\obj\Debug\Ex2_SomaPorLinha.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\obj\Debug\Ex2_SomaPorLinha.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Matrizes\Ex2_SomaPorLinha\obj\Debug\Ex2_SomaPorLinha.pdb

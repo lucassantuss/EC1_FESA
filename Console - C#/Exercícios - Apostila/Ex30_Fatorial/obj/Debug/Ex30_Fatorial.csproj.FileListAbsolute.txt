@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\bin\Debug\Ex30_Fatorial.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\bin\Debug\Ex30_Fatorial.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\bin\Debug\Ex30_Fatorial.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\obj\Debug\Ex30_Fatorial.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\obj\Debug\Ex30_Fatorial.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\obj\Debug\Ex30_Fatorial.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\obj\Debug\Ex30_Fatorial.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exercícios - Apostila\Ex30_Fatorial\obj\Debug\Ex30_Fatorial.pdb
