@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\bin\Debug\Ex16_OrdemDecrescente.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\bin\Debug\Ex16_OrdemDecrescente.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\bin\Debug\Ex16_OrdemDecrescente.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\obj\Debug\Ex16_OrdemDecrescente.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\obj\Debug\Ex16_OrdemDecrescente.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\obj\Debug\Ex16_OrdemDecrescente.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\obj\Debug\Ex16_OrdemDecrescente.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex16_OrdemDecrescente\obj\Debug\Ex16_OrdemDecrescente.pdb

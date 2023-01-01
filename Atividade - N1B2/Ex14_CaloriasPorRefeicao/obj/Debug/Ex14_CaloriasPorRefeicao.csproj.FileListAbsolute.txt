@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\bin\Debug\Ex14_CaloriasPorRefeicao.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\bin\Debug\Ex14_CaloriasPorRefeicao.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\bin\Debug\Ex14_CaloriasPorRefeicao.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\obj\Debug\Ex14_CaloriasPorRefeicao.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\obj\Debug\Ex14_CaloriasPorRefeicao.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\obj\Debug\Ex14_CaloriasPorRefeicao.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\obj\Debug\Ex14_CaloriasPorRefeicao.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex14_CaloriasPorRefeicao\obj\Debug\Ex14_CaloriasPorRefeicao.pdb

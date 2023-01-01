@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\bin\Debug\Ex9_Fatorial.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\bin\Debug\Ex9_Fatorial.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\bin\Debug\Ex9_Fatorial.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\obj\Debug\Ex9_Fatorial.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\obj\Debug\Ex9_Fatorial.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\obj\Debug\Ex9_Fatorial.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\obj\Debug\Ex9_Fatorial.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex9_Fatorial\obj\Debug\Ex9_Fatorial.pdb

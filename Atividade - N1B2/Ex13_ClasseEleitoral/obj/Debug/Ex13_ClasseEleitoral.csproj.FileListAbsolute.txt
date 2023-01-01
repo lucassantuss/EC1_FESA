@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\bin\Debug\Ex13_ClasseEleitoral.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\bin\Debug\Ex13_ClasseEleitoral.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\bin\Debug\Ex13_ClasseEleitoral.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\obj\Debug\Ex13_ClasseEleitoral.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\obj\Debug\Ex13_ClasseEleitoral.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\obj\Debug\Ex13_ClasseEleitoral.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\obj\Debug\Ex13_ClasseEleitoral.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex13_ClasseEleitoral\obj\Debug\Ex13_ClasseEleitoral.pdb

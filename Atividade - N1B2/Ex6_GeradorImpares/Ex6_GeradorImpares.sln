@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6_GeradorImpares", "Ex6_GeradorImpares.csproj", "{1F5824FE-EEE8-4C5C-B781-D1632476C731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5824FE-EEE8-4C5C-B781-D1632476C731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5824FE-EEE8-4C5C-B781-D1632476C731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5824FE-EEE8-4C5C-B781-D1632476C731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5824FE-EEE8-4C5C-B781-D1632476C731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C99546-A3DE-4CFC-803C-9A4CB3CF920C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\bin\Debug\Ex7_ProgressaoAritmetica.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\bin\Debug\Ex7_ProgressaoAritmetica.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\bin\Debug\Ex7_ProgressaoAritmetica.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\obj\Debug\Ex7_ProgressaoAritmetica.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\obj\Debug\Ex7_ProgressaoAritmetica.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\obj\Debug\Ex7_ProgressaoAritmetica.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\obj\Debug\Ex7_ProgressaoAritmetica.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex7_ProgressaoAritmetica\obj\Debug\Ex7_ProgressaoAritmetica.pdb

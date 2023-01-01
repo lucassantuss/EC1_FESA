@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\bin\Debug\Ex19_MaisNovo.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\bin\Debug\Ex19_MaisNovo.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\bin\Debug\Ex19_MaisNovo.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\obj\Debug\Ex19_MaisNovo.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\obj\Debug\Ex19_MaisNovo.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\obj\Debug\Ex19_MaisNovo.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\obj\Debug\Ex19_MaisNovo.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex19_MaisNovo\obj\Debug\Ex19_MaisNovo.pdb

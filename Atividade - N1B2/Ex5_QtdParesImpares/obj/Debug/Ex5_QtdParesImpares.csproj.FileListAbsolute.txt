@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\bin\Debug\Ex5_QtdParesImpares.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\bin\Debug\Ex5_QtdParesImpares.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\bin\Debug\Ex5_QtdParesImpares.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\obj\Debug\Ex5_QtdParesImpares.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\obj\Debug\Ex5_QtdParesImpares.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\obj\Debug\Ex5_QtdParesImpares.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\obj\Debug\Ex5_QtdParesImpares.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex5_QtdParesImpares\obj\Debug\Ex5_QtdParesImpares.pdb

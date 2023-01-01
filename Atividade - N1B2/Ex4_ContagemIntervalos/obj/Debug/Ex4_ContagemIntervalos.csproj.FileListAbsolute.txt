@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\bin\Debug\Ex4_ContagemIntervalos.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\bin\Debug\Ex4_ContagemIntervalos.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\bin\Debug\Ex4_ContagemIntervalos.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\obj\Debug\Ex4_ContagemIntervalos.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\obj\Debug\Ex4_ContagemIntervalos.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\obj\Debug\Ex4_ContagemIntervalos.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\obj\Debug\Ex4_ContagemIntervalos.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex4_ContagemIntervalos\obj\Debug\Ex4_ContagemIntervalos.pdb

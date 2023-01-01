@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\bin\Debug\Ex8_ProgressaoGeometrica.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\bin\Debug\Ex8_ProgressaoGeometrica.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\bin\Debug\Ex8_ProgressaoGeometrica.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\obj\Debug\Ex8_ProgressaoGeometrica.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\obj\Debug\Ex8_ProgressaoGeometrica.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\obj\Debug\Ex8_ProgressaoGeometrica.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\obj\Debug\Ex8_ProgressaoGeometrica.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex8_ProgressaoGeometrica\obj\Debug\Ex8_ProgressaoGeometrica.pdb

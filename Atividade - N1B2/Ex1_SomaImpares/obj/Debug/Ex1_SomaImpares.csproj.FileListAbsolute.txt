@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\bin\Debug\Ex1_SomaImpares.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\bin\Debug\Ex1_SomaImpares.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\bin\Debug\Ex1_SomaImpares.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\obj\Debug\Ex1_SomaImpares.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\obj\Debug\Ex1_SomaImpares.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\obj\Debug\Ex1_SomaImpares.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\obj\Debug\Ex1_SomaImpares.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex1_SomaImpares\obj\Debug\Ex1_SomaImpares.pdb

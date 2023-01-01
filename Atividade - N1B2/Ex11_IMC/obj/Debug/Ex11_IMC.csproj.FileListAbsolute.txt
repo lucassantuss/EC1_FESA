@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\bin\Debug\Ex11_IMC.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\bin\Debug\Ex11_IMC.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\bin\Debug\Ex11_IMC.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\obj\Debug\Ex11_IMC.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\obj\Debug\Ex11_IMC.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\obj\Debug\Ex11_IMC.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\obj\Debug\Ex11_IMC.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex11_IMC\obj\Debug\Ex11_IMC.pdb

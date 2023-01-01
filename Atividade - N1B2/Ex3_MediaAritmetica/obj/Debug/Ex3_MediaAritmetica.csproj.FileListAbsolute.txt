@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\bin\Debug\Ex3_MediaAritmetica.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\bin\Debug\Ex3_MediaAritmetica.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\bin\Debug\Ex3_MediaAritmetica.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\obj\Debug\Ex3_MediaAritmetica.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\obj\Debug\Ex3_MediaAritmetica.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\obj\Debug\Ex3_MediaAritmetica.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\obj\Debug\Ex3_MediaAritmetica.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex3_MediaAritmetica\obj\Debug\Ex3_MediaAritmetica.pdb

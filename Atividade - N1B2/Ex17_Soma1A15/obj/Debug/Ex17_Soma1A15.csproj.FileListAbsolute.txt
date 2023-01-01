@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\bin\Debug\Ex17_Soma1A15.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\bin\Debug\Ex17_Soma1A15.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\bin\Debug\Ex17_Soma1A15.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\obj\Debug\Ex17_Soma1A15.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\obj\Debug\Ex17_Soma1A15.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\obj\Debug\Ex17_Soma1A15.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\obj\Debug\Ex17_Soma1A15.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex17_Soma1A15\obj\Debug\Ex17_Soma1A15.pdb

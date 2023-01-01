@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\bin\Debug\Ex10_Divisivel.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\bin\Debug\Ex10_Divisivel.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\bin\Debug\Ex10_Divisivel.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\obj\Debug\Ex10_Divisivel.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\obj\Debug\Ex10_Divisivel.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\obj\Debug\Ex10_Divisivel.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\obj\Debug\Ex10_Divisivel.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex10_Divisivel\obj\Debug\Ex10_Divisivel.pdb

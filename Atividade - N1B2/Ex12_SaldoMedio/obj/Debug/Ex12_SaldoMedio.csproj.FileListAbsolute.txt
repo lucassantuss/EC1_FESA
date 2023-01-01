@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\bin\Debug\Ex12_SaldoMedio.exe.config
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\bin\Debug\Ex12_SaldoMedio.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\bin\Debug\Ex12_SaldoMedio.pdb
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\obj\Debug\Ex12_SaldoMedio.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\obj\Debug\Ex12_SaldoMedio.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\obj\Debug\Ex12_SaldoMedio.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\obj\Debug\Ex12_SaldoMedio.exe
+E:\GITHUB\FESA\EC1\Atividade - N1B2\Ex12_SaldoMedio\obj\Debug\Ex12_SaldoMedio.pdb
