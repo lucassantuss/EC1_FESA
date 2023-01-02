@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\bin\Debug\Ex7_SomaParesImpares.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\bin\Debug\Ex7_SomaParesImpares.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\bin\Debug\Ex7_SomaParesImpares.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\obj\Debug\Ex7_SomaParesImpares.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\obj\Debug\Ex7_SomaParesImpares.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\obj\Debug\Ex7_SomaParesImpares.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\obj\Debug\Ex7_SomaParesImpares.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex7_SomaParesImpares\obj\Debug\Ex7_SomaParesImpares.pdb

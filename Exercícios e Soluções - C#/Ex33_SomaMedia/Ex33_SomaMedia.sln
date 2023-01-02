@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex33_SomaMedia", "Ex33_SomaMedia.csproj", "{9B57A5B9-1F46-452B-B34E-117D4F19DEC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B57A5B9-1F46-452B-B34E-117D4F19DEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B57A5B9-1F46-452B-B34E-117D4F19DEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B57A5B9-1F46-452B-B34E-117D4F19DEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B57A5B9-1F46-452B-B34E-117D4F19DEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82F75D6-DC68-4F77-8217-98AC4E1CA10D}
+	EndGlobalSection
+EndGlobal

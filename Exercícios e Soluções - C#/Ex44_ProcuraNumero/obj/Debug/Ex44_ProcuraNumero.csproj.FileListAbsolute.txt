@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\bin\Debug\Ex44_ProcuraNumero.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\bin\Debug\Ex44_ProcuraNumero.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\bin\Debug\Ex44_ProcuraNumero.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\obj\Debug\Ex44_ProcuraNumero.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\obj\Debug\Ex44_ProcuraNumero.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\obj\Debug\Ex44_ProcuraNumero.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\obj\Debug\Ex44_ProcuraNumero.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex44_ProcuraNumero\obj\Debug\Ex44_ProcuraNumero.pdb

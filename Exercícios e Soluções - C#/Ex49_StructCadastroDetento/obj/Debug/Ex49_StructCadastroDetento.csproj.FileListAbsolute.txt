@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\bin\Debug\Ex49_StructCadastroDetento.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\bin\Debug\Ex49_StructCadastroDetento.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\bin\Debug\Ex49_StructCadastroDetento.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\obj\Debug\Ex49_StructCadastroDetento.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\obj\Debug\Ex49_StructCadastroDetento.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\obj\Debug\Ex49_StructCadastroDetento.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\obj\Debug\Ex49_StructCadastroDetento.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex49_StructCadastroDetento\obj\Debug\Ex49_StructCadastroDetento.pdb

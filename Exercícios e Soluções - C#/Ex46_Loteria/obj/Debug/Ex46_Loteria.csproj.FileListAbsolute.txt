@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\bin\Debug\Ex46_Loteria.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\bin\Debug\Ex46_Loteria.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\bin\Debug\Ex46_Loteria.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\obj\Debug\Ex46_Loteria.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\obj\Debug\Ex46_Loteria.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\obj\Debug\Ex46_Loteria.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\obj\Debug\Ex46_Loteria.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex46_Loteria\obj\Debug\Ex46_Loteria.pdb

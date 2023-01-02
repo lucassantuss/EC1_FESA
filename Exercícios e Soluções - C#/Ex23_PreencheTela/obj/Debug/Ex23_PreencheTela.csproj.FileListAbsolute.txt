@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\bin\Debug\Ex23_PreencheTela.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\bin\Debug\Ex23_PreencheTela.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\bin\Debug\Ex23_PreencheTela.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\obj\Debug\Ex23_PreencheTela.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\obj\Debug\Ex23_PreencheTela.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\obj\Debug\Ex23_PreencheTela.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\obj\Debug\Ex23_PreencheTela.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex23_PreencheTela\obj\Debug\Ex23_PreencheTela.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\bin\Debug\JogoDaForca_FilipeAndrade.exe.config
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\bin\Debug\JogoDaForca_FilipeAndrade.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\bin\Debug\JogoDaForca_FilipeAndrade.pdb
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\obj\Debug\JogoDaForca_FilipeAndrade.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\obj\Debug\JogoDaForca_FilipeAndrade.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\obj\Debug\JogoDaForca_FilipeAndrade.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\obj\Debug\JogoDaForca_FilipeAndrade.exe
+E:\GITHUB\FESA\EC1\Console - C#\Exemplos das Aulas\JogoDaForca_FilipeAndrade\obj\Debug\JogoDaForca_FilipeAndrade.pdb

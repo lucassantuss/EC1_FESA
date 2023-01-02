@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\bin\Debug\Ex18_Fatorial.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\bin\Debug\Ex18_Fatorial.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\bin\Debug\Ex18_Fatorial.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\obj\Debug\Ex18_Fatorial.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\obj\Debug\Ex18_Fatorial.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\obj\Debug\Ex18_Fatorial.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\obj\Debug\Ex18_Fatorial.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex18_Fatorial\obj\Debug\Ex18_Fatorial.pdb

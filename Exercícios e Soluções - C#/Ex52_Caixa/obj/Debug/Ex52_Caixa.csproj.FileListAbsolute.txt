@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\bin\Debug\Ex52_Caixa.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\bin\Debug\Ex52_Caixa.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\bin\Debug\Ex52_Caixa.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\obj\Debug\Ex52_Caixa.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\obj\Debug\Ex52_Caixa.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\obj\Debug\Ex52_Caixa.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\obj\Debug\Ex52_Caixa.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex52_Caixa\obj\Debug\Ex52_Caixa.pdb

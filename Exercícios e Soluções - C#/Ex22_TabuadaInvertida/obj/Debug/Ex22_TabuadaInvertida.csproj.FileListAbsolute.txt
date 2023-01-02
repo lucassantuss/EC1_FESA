@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\bin\Debug\Ex22_TabuadaInvertida.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\bin\Debug\Ex22_TabuadaInvertida.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\bin\Debug\Ex22_TabuadaInvertida.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\obj\Debug\Ex22_TabuadaInvertida.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\obj\Debug\Ex22_TabuadaInvertida.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\obj\Debug\Ex22_TabuadaInvertida.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\obj\Debug\Ex22_TabuadaInvertida.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex22_TabuadaInvertida\obj\Debug\Ex22_TabuadaInvertida.pdb

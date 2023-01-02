@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\bin\Debug\Ex39_NomeInvertido.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\bin\Debug\Ex39_NomeInvertido.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\bin\Debug\Ex39_NomeInvertido.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\obj\Debug\Ex39_NomeInvertido.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\obj\Debug\Ex39_NomeInvertido.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\obj\Debug\Ex39_NomeInvertido.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\obj\Debug\Ex39_NomeInvertido.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex39_NomeInvertido\obj\Debug\Ex39_NomeInvertido.pdb

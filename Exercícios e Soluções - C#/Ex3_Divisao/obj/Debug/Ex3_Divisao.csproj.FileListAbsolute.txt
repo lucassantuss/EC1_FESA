@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\bin\Debug\Ex3_Divisao.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\bin\Debug\Ex3_Divisao.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\bin\Debug\Ex3_Divisao.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\obj\Debug\Ex3_Divisao.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\obj\Debug\Ex3_Divisao.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\obj\Debug\Ex3_Divisao.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\obj\Debug\Ex3_Divisao.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex3_Divisao\obj\Debug\Ex3_Divisao.pdb

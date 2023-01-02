@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\bin\Debug\Ex17_FraseVertical.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\bin\Debug\Ex17_FraseVertical.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\bin\Debug\Ex17_FraseVertical.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\obj\Debug\Ex17_FraseVertical.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\obj\Debug\Ex17_FraseVertical.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\obj\Debug\Ex17_FraseVertical.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\obj\Debug\Ex17_FraseVertical.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex17_FraseVertical\obj\Debug\Ex17_FraseVertical.pdb

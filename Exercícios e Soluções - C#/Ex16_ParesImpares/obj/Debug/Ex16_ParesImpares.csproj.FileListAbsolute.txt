@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\bin\Debug\Ex16_ParesImpares.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\bin\Debug\Ex16_ParesImpares.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\bin\Debug\Ex16_ParesImpares.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\obj\Debug\Ex16_ParesImpares.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\obj\Debug\Ex16_ParesImpares.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\obj\Debug\Ex16_ParesImpares.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\obj\Debug\Ex16_ParesImpares.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex16_ParesImpares\obj\Debug\Ex16_ParesImpares.pdb

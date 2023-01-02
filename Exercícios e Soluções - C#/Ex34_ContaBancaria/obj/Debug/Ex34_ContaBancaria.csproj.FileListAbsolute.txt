@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\bin\Debug\Ex34_ContaBancaria.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\bin\Debug\Ex34_ContaBancaria.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\bin\Debug\Ex34_ContaBancaria.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\obj\Debug\Ex34_ContaBancaria.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\obj\Debug\Ex34_ContaBancaria.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\obj\Debug\Ex34_ContaBancaria.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\obj\Debug\Ex34_ContaBancaria.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex34_ContaBancaria\obj\Debug\Ex34_ContaBancaria.pdb

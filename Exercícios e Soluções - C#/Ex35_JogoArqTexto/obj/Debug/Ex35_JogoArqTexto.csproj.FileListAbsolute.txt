@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\bin\Debug\Ex35_JogoArqTexto.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\bin\Debug\Ex35_JogoArqTexto.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\bin\Debug\Ex35_JogoArqTexto.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\obj\Debug\Ex35_JogoArqTexto.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\obj\Debug\Ex35_JogoArqTexto.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\obj\Debug\Ex35_JogoArqTexto.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\obj\Debug\Ex35_JogoArqTexto.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex35_JogoArqTexto\obj\Debug\Ex35_JogoArqTexto.pdb

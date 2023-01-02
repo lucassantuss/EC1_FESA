@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\bin\Debug\Ex2_Delegacia.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\bin\Debug\Ex2_Delegacia.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\bin\Debug\Ex2_Delegacia.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\obj\Debug\Ex2_Delegacia.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\obj\Debug\Ex2_Delegacia.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\obj\Debug\Ex2_Delegacia.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\obj\Debug\Ex2_Delegacia.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex2_Delegacia\obj\Debug\Ex2_Delegacia.pdb

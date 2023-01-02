@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\bin\Debug\Ex51_DadosFuncionarios.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\bin\Debug\Ex51_DadosFuncionarios.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\bin\Debug\Ex51_DadosFuncionarios.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\obj\Debug\Ex51_DadosFuncionarios.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\obj\Debug\Ex51_DadosFuncionarios.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\obj\Debug\Ex51_DadosFuncionarios.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\obj\Debug\Ex51_DadosFuncionarios.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex51_DadosFuncionarios\obj\Debug\Ex51_DadosFuncionarios.pdb

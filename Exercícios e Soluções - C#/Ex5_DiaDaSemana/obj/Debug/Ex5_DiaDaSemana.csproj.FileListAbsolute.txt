@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\bin\Debug\Ex5_DiaDaSemana.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\bin\Debug\Ex5_DiaDaSemana.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\bin\Debug\Ex5_DiaDaSemana.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\obj\Debug\Ex5_DiaDaSemana.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\obj\Debug\Ex5_DiaDaSemana.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\obj\Debug\Ex5_DiaDaSemana.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\obj\Debug\Ex5_DiaDaSemana.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex5_DiaDaSemana\obj\Debug\Ex5_DiaDaSemana.pdb

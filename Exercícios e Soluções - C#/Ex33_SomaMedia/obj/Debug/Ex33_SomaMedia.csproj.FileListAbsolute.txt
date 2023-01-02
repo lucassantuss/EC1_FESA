@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\bin\Debug\Ex33_SomaMedia.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\bin\Debug\Ex33_SomaMedia.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\bin\Debug\Ex33_SomaMedia.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\obj\Debug\Ex33_SomaMedia.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\obj\Debug\Ex33_SomaMedia.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\obj\Debug\Ex33_SomaMedia.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\obj\Debug\Ex33_SomaMedia.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex33_SomaMedia\obj\Debug\Ex33_SomaMedia.pdb

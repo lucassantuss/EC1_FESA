@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\bin\Debug\Ex36_PalavrasArqTexto.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\bin\Debug\Ex36_PalavrasArqTexto.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\bin\Debug\Ex36_PalavrasArqTexto.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\obj\Debug\Ex36_PalavrasArqTexto.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\obj\Debug\Ex36_PalavrasArqTexto.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\obj\Debug\Ex36_PalavrasArqTexto.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\obj\Debug\Ex36_PalavrasArqTexto.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex36_PalavrasArqTexto\obj\Debug\Ex36_PalavrasArqTexto.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\bin\Debug\Ex41_MaiorMenor.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\bin\Debug\Ex41_MaiorMenor.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\bin\Debug\Ex41_MaiorMenor.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\obj\Debug\Ex41_MaiorMenor.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\obj\Debug\Ex41_MaiorMenor.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\obj\Debug\Ex41_MaiorMenor.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\obj\Debug\Ex41_MaiorMenor.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex41_MaiorMenor\obj\Debug\Ex41_MaiorMenor.pdb

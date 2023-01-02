@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\bin\Debug\Ex14_Tabuada.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\bin\Debug\Ex14_Tabuada.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\bin\Debug\Ex14_Tabuada.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\obj\Debug\Ex14_Tabuada.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\obj\Debug\Ex14_Tabuada.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\obj\Debug\Ex14_Tabuada.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\obj\Debug\Ex14_Tabuada.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex14_Tabuada\obj\Debug\Ex14_Tabuada.pdb

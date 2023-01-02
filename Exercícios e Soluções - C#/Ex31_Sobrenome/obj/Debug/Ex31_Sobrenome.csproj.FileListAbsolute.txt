@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\bin\Debug\Ex31_Sobrenome.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\bin\Debug\Ex31_Sobrenome.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\bin\Debug\Ex31_Sobrenome.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\obj\Debug\Ex31_Sobrenome.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\obj\Debug\Ex31_Sobrenome.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\obj\Debug\Ex31_Sobrenome.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\obj\Debug\Ex31_Sobrenome.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex31_Sobrenome\obj\Debug\Ex31_Sobrenome.pdb

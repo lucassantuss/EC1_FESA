@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\bin\Debug\Ex42_MenuNomes.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\bin\Debug\Ex42_MenuNomes.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\bin\Debug\Ex42_MenuNomes.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\obj\Debug\Ex42_MenuNomes.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\obj\Debug\Ex42_MenuNomes.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\obj\Debug\Ex42_MenuNomes.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\obj\Debug\Ex42_MenuNomes.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex42_MenuNomes\obj\Debug\Ex42_MenuNomes.pdb

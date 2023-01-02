@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\bin\Debug\Tabela_ASCII.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\bin\Debug\Tabela_ASCII.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\bin\Debug\Tabela_ASCII.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\obj\Debug\Tabela_ASCII.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\obj\Debug\Tabela_ASCII.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\obj\Debug\Tabela_ASCII.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\obj\Debug\Tabela_ASCII.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Tabela_ASCII\obj\Debug\Tabela_ASCII.pdb

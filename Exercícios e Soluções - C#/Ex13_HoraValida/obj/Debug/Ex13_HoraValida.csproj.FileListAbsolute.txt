@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\bin\Debug\Ex13_HoraValida.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\bin\Debug\Ex13_HoraValida.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\bin\Debug\Ex13_HoraValida.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\obj\Debug\Ex13_HoraValida.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\obj\Debug\Ex13_HoraValida.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\obj\Debug\Ex13_HoraValida.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\obj\Debug\Ex13_HoraValida.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex13_HoraValida\obj\Debug\Ex13_HoraValida.pdb

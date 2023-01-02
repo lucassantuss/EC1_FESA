@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\bin\Debug\Ex21_FraseInvertida.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\bin\Debug\Ex21_FraseInvertida.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\bin\Debug\Ex21_FraseInvertida.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\obj\Debug\Ex21_FraseInvertida.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\obj\Debug\Ex21_FraseInvertida.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\obj\Debug\Ex21_FraseInvertida.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\obj\Debug\Ex21_FraseInvertida.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex21_FraseInvertida\obj\Debug\Ex21_FraseInvertida.pdb

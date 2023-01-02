@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\bin\Debug\Ex15_Soma1A100.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\bin\Debug\Ex15_Soma1A100.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\bin\Debug\Ex15_Soma1A100.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\obj\Debug\Ex15_Soma1A100.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\obj\Debug\Ex15_Soma1A100.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\obj\Debug\Ex15_Soma1A100.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\obj\Debug\Ex15_Soma1A100.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex15_Soma1A100\obj\Debug\Ex15_Soma1A100.pdb

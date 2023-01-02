@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\bin\Debug\Ex20_ContaLetraSemEspacos.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\bin\Debug\Ex20_ContaLetraSemEspacos.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\bin\Debug\Ex20_ContaLetraSemEspacos.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\obj\Debug\Ex20_ContaLetraSemEspacos.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\obj\Debug\Ex20_ContaLetraSemEspacos.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\obj\Debug\Ex20_ContaLetraSemEspacos.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\obj\Debug\Ex20_ContaLetraSemEspacos.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex20_ContaLetraSemEspacos\obj\Debug\Ex20_ContaLetraSemEspacos.pdb

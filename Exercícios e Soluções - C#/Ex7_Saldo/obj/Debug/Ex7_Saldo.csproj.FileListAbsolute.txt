@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\bin\Debug\Ex7_Saldo.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\bin\Debug\Ex7_Saldo.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\bin\Debug\Ex7_Saldo.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\obj\Debug\Ex7_Saldo.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\obj\Debug\Ex7_Saldo.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\obj\Debug\Ex7_Saldo.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\obj\Debug\Ex7_Saldo.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex7_Saldo\obj\Debug\Ex7_Saldo.pdb

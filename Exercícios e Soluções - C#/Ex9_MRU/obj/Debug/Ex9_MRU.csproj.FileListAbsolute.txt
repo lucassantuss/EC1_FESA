@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\bin\Debug\Ex9_MRU.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\bin\Debug\Ex9_MRU.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\bin\Debug\Ex9_MRU.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\obj\Debug\Ex9_MRU.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\obj\Debug\Ex9_MRU.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\obj\Debug\Ex9_MRU.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\obj\Debug\Ex9_MRU.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex9_MRU\obj\Debug\Ex9_MRU.pdb

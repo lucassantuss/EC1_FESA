@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\bin\Debug\Ex4_FaixaEtaria.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\bin\Debug\Ex4_FaixaEtaria.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\bin\Debug\Ex4_FaixaEtaria.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\obj\Debug\Ex4_FaixaEtaria.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\obj\Debug\Ex4_FaixaEtaria.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\obj\Debug\Ex4_FaixaEtaria.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\obj\Debug\Ex4_FaixaEtaria.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex4_FaixaEtaria\obj\Debug\Ex4_FaixaEtaria.pdb

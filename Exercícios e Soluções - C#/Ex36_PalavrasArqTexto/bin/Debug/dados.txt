@@ -1,0 +1,5 @@
+este texto
+está sendo
+acumulado
+numa variavel
+bla bla bla

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\bin\Debug\Ex43_VetNomeSalario.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\bin\Debug\Ex43_VetNomeSalario.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\bin\Debug\Ex43_VetNomeSalario.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\obj\Debug\Ex43_VetNomeSalario.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\obj\Debug\Ex43_VetNomeSalario.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\obj\Debug\Ex43_VetNomeSalario.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\obj\Debug\Ex43_VetNomeSalario.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex43_VetNomeSalario\obj\Debug\Ex43_VetNomeSalario.pdb

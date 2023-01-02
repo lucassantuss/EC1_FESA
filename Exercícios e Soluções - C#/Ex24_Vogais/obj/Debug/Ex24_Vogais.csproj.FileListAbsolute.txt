@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\bin\Debug\Ex24_Vogais.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\bin\Debug\Ex24_Vogais.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\bin\Debug\Ex24_Vogais.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\obj\Debug\Ex24_Vogais.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\obj\Debug\Ex24_Vogais.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\obj\Debug\Ex24_Vogais.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\obj\Debug\Ex24_Vogais.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex24_Vogais\obj\Debug\Ex24_Vogais.pdb

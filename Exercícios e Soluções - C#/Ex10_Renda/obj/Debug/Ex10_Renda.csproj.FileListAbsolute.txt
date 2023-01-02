@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\bin\Debug\Ex10_Renda.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\bin\Debug\Ex10_Renda.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\bin\Debug\Ex10_Renda.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\obj\Debug\Ex10_Renda.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\obj\Debug\Ex10_Renda.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\obj\Debug\Ex10_Renda.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\obj\Debug\Ex10_Renda.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex10_Renda\obj\Debug\Ex10_Renda.pdb

@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\bin\Debug\Ex40_MaiorNumero.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\bin\Debug\Ex40_MaiorNumero.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\bin\Debug\Ex40_MaiorNumero.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\obj\Debug\Ex40_MaiorNumero.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\obj\Debug\Ex40_MaiorNumero.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\obj\Debug\Ex40_MaiorNumero.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\obj\Debug\Ex40_MaiorNumero.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex40_MaiorNumero\obj\Debug\Ex40_MaiorNumero.pdb

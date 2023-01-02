@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\bin\Debug\Ex1_DadosAluno.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\bin\Debug\Ex1_DadosAluno.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\bin\Debug\Ex1_DadosAluno.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\obj\Debug\Ex1_DadosAluno.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\obj\Debug\Ex1_DadosAluno.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\obj\Debug\Ex1_DadosAluno.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\obj\Debug\Ex1_DadosAluno.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex1_DadosAluno\obj\Debug\Ex1_DadosAluno.pdb

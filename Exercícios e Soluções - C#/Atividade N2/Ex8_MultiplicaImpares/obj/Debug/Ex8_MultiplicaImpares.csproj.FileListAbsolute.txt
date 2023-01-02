@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\bin\Debug\Ex8_MultiplicaImpares.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\bin\Debug\Ex8_MultiplicaImpares.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\bin\Debug\Ex8_MultiplicaImpares.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\obj\Debug\Ex8_MultiplicaImpares.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\obj\Debug\Ex8_MultiplicaImpares.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\obj\Debug\Ex8_MultiplicaImpares.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\obj\Debug\Ex8_MultiplicaImpares.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Atividade N2\Ex8_MultiplicaImpares\obj\Debug\Ex8_MultiplicaImpares.pdb

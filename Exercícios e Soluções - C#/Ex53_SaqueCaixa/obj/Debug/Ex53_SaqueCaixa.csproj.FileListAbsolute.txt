@@ -1,0 +1,8 @@
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\bin\Debug\Ex53_SaqueCaixa.exe.config
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\bin\Debug\Ex53_SaqueCaixa.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\bin\Debug\Ex53_SaqueCaixa.pdb
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\obj\Debug\Ex53_SaqueCaixa.csproj.AssemblyReference.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\obj\Debug\Ex53_SaqueCaixa.csproj.SuggestedBindingRedirects.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\obj\Debug\Ex53_SaqueCaixa.csproj.CoreCompileInputs.cache
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\obj\Debug\Ex53_SaqueCaixa.exe
+E:\GITHUB\FESA\EC1\Exercícios e Soluções - C#\Ex53_SaqueCaixa\obj\Debug\Ex53_SaqueCaixa.pdb
